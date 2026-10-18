@@ -16,6 +16,7 @@ Looking for OJT in networking, data, cloud, or AI.
 - AI: [AI Fundamentals (IBM SkillsBuild)](https://www.credly.com/badges/431a66b3-ff08-4a3a-81a4-1beecfabade7/public_url), [AI Fundamentals (Cisco and IBM)](https://www.credly.com/badges/05d15d46-392d-4214-9652-7edfc3331c65/public_url)
 - AWS: [Academy Graduate, Cloud Foundations](https://www.credly.com/badges/d63e9e4a-60e2-4435-a1a4-44015458a27c/public_url)
 - CompTIA: [IT Fundamentals+ (ITF+)](https://www.credly.com/badges/3a8363aa-e34b-4983-b61c-60dcf61e1b98/public_url), Cloud Essentials+
+- freeCodeCamp: [Relational Database V8](https://www.freecodecamp.org/certification/markdariusdavid/relationaal-database-v8), [Legacy Responsive Web Design V8](https://www.freecodecamp.org/certification/markdariusdavid/responsive-web-design)
 
 ## How I use AI
 I use AI to help me build. I test, fix, and deploy the work myself. I write an AI usage log in my projects.
