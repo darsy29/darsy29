@@ -23,5 +23,5 @@ I use AI to help me build. I test, fix, and deploy the work myself. I write an A
 
 ## Contact
 - Portfolio: https://darsy29.github.io
-- LinkedIn: https://www.linkedin.com/in/mark-darius-david-41a570415/
+- LinkedIn: https://www.linkedin.com/in/darsy29
 - Email: markdariusdavid23@yahoo.com
